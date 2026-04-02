@@ -1,54 +1,62 @@
-# 👋 Hi, I'm Mert
+# Hi there, I'm Mert Saran! 👋
 
-## 🚛 Logistics Professional → Full Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0052cc&height=200&section=header&text=Mert%20Saran&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-With 8+ years of experience in global liner operations (Hapag-Lloyd), customs, and supply chain management, I’m transitioning into software development to build technical solutions for the logistics and trade industry.
+### 🚀 Logistics Specialist | Aspiring Full-Stack Developer | AI-Driven Coder
 
-I combine real-world operational experience with growing technical skills to create practical and scalable solutions.
+I am an experienced professional with 8 years of deep expertise in **International Logistics & Customs Operations**, currently bridging the gap between global supply chain management and modern software engineering.
 
----
-
-## 🚀 Currently Focused On
-
-- HTML & CSS fundamentals  
-- Python fundamentals  
-- Git & GitHub workflow  
-- Transitioning into JavaScript  
-- Building small, consistent projects  
+- 🏗️ **Core Focus:** Building high-performance web applications using **HTML5, CSS3, and Tailwind CSS**.
+- 🛠️ **Professional Background:** Senior Coordinator at **Hapag-Lloyd**, leveraging operational insights to build smarter logistics tools.
+- 🎯 **Current Project:** Developing a **Global Customs Requirement Assistant** to automate international shipping documentation.
+- 🎓 **Growth Path:** Enrolling in the **GoIT Full-stack Developer Bootcamp** (Starting May 2026).
 
 ---
 
-## 🛠 Tech Stack
+### 💻 Tech Stack
 
-- Python  
-- HTML  
-- CSS  
-- JavaScript (upcoming focus)  
-- Git & GitHub  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 AI-Native Development
+
+I leverage cutting-edge AI tools to accelerate development cycles and ensure code efficiency:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%203.5-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-1a73e8?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-00ADFF?style=flat-square&logo=windsurf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continue.dev-FF5733?style=flat-square&logo=continue&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cline-000000?style=flat-square&logo=cline&logoColor=white" />
+</p>
 
 ---
 
-## 💼 Industry Background
+### 📊 GitHub Stats
 
-- Global Liner Shipping Operations  
-- Import / Export & Customs  
-- Supply Chain Management  
-- Operational Problem Solving  
-
----
-
-## 🎯 Long-Term Goal
-
-To combine logistics expertise with software development and build digital tools that improve trade operations and supply chain efficiency.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merttsaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merttsaran&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
+
+I'm actively looking for opportunities where I can combine my logistics background with my growing software skills. Let's build something efficient!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mert-saran)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:merttsaran@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/merttsaran)
 
----
-
-#FullStackDeveloper #CareerTransition #SoftwareDevelopment #LogisticsTech #Python #JavaScript #HTML #CSS #GitHub #SupplyChain #TechJourney
+<p align="center">
+  <i>"Optimizing code like I optimize supply chains."</i>
+</p>
