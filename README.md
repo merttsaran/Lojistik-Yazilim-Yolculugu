@@ -48,6 +48,11 @@ I leverage cutting-edge AI tools to accelerate development cycles and ensure cod
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merttsaran&theme=tokyonight&hide_border=true" alt="Mert's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=merttsaran&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merttsaran&theme=tokyonight" />
+</p>
+
 ---
 
 ### 📫 Connect With Me
