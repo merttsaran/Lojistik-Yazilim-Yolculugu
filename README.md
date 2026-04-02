@@ -1,7 +1,9 @@
 # Hi there, I'm Mert Saran! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0052cc&height=200&section=header&text=Mert%20Saran&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mert+Saran;Logistics+Expert;Full-Stack+Developer;AI+Powered+Coder" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🚀 Logistics Specialist | Aspiring Full-Stack Developer | AI-Driven Coder
